@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...\
 :office: Nastavnik u skoli
-
+:computer: ossvetisavacacak\
+:email:dragan.paripovic@gmail.com\
