@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...\
 :office: Nastavnik u skoli
 :computer: ossvetisavacacak\
-:email:dragan.paripovic@gmail.com\
+:email:dragan.paripovic@gmail.com
